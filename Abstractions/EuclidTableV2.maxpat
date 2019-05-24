@@ -51,7 +51,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "[length, hits, offset]",
 					"id" : "obj-47",
 					"index" : 2,
 					"maxclass" : "inlet",
@@ -64,13 +64,13 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Clock",
 					"id" : "obj-46",
 					"index" : 1,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 8.999999046325684, 22.0, 30.0, 30.0 ]
 				}
 
